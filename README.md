@@ -2,8 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=imsheth)
 
-[![imsheth's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=imsheth&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/imsheth/github-readme-stats#gh-dark-mode-only)
-[![imsheth's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=imsheth&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/imsheth/github-readme-stats#gh-light-mode-only)
+[![imsheth's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=imsheth&show_icons=true&theme=default)](https://github.com/imsheth/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsheth&layout=compact)](https://github.com/imsheth/github-readme-stats)
 
 <!--
 **imsheth/imsheth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
